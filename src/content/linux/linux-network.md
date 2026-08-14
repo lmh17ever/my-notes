@@ -4,20 +4,20 @@ summary: "Linux-часть сетевой диагностики (ip, ss, как
 tags: [linux, network, logs, journalctl, diagnostics]
 status: active
 date: 2026-08-14
-related: [linux-process-diagnostics, linux-systemd, linux-study-plan, network-foundations]
+related: [linux-process-diagnostics, linux-systemd, linux-study-plan, network-foundations, linux-network-interfaces, linux-ip-addressing, linux-routing-table, linux-sockets, linux-listening-process, linux-ports]
 featured: false
 ---
 
 ## Сеть в Linux
 
-Сетевой блок изучен концептуально на уровне HTTP/основ сети; здесь — Linux-часть:
+Сетевой блок изучен концептуально на уровне HTTP/основ сети; здесь — Linux-часть и ссылки на детальные шпаргалки:
 
-- network interface;
-- IP;
-- routing table;
-- ports;
-- sockets;
-- listening process.
+- network interface → [linux-network-interfaces](linux-network-interfaces);
+- IP/маски → [linux-ip-addressing](linux-ip-addressing);
+- routing table → [linux-routing-table](linux-routing-table);
+- sockets → [linux-sockets](linux-sockets);
+- listening process → [linux-listening-process](linux-listening-process);
+- ports → [linux-ports](linux-ports).
 
 Команды: `ip`, `ss`, `ping`, `traceroute`, `curl`.
 

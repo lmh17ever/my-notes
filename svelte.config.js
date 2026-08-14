@@ -21,7 +21,8 @@ const highlighter = await createHighlighter({
 		'svelte',
 		'docker',
 		'text',
-		'http'
+		'http',
+		'nginx'
 	]
 });
 

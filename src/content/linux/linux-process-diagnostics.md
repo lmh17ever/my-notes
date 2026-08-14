@@ -4,7 +4,7 @@ summary: "Как получить информацию о процессе: ps, 
 tags: [linux, processes, proc, lsof, diagnostics]
 status: active
 date: 2026-08-14
-related: [linux-systemd, linux-memory, linux-study-plan]
+related: [linux-systemd, linux-memory, linux-study-plan, linux-sockets, linux-listening-process]
 featured: false
 ---
 
